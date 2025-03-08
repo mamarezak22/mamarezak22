@@ -1,5 +1,5 @@
 ## Hi there 👋
-my name is mohammadreza aghababaei a iranian passion persion about programming and getting your hand dirty on the code.
+i am mohammadreza aghababaei a iranian person passion about programming and getting your hand dirty on the code.
 and when i say dirty i don't mean bugs.
 <h2 align="center">Stack</h2>
 <div align="center">
