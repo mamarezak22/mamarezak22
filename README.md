@@ -1,5 +1,5 @@
 ## Hi there 👋
-i am mohammadreza aghababaei a iranian one and way passion about programming and getting your hand dirty on the code.
+i am mohammadreza aghababaei a **iranian** one and way passion about programming and getting your hand dirty on the code.
 
 i use  **linux**  and code in **python** for more than a year.
 
@@ -12,8 +12,6 @@ my main focous now is **web Back-end** with the help of **django** and learning 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux logo"  />
@@ -21,7 +19,12 @@ my main focous now is **web Back-end** with the help of **django** and learning 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="Vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="SQL logo"  />
+  <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height="50" alt="Redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="50" alt="Docker logo"  />
+  <img width="12" />
 </div>
+
 <h2 align="center">My social media</h2>
 
 
@@ -29,6 +32,7 @@ my main focous now is **web Back-end** with the help of **django** and learning 
   <a href="https://t.me/Mohammadreza606" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
+  <a href="
 </div>
 
 <picture>
