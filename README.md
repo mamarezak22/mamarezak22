@@ -1,6 +1,11 @@
 ## Hi there 👋
-i am mohammadreza aghababaei a iranian person passion about programming and getting your hand dirty on the code.
-and when i say dirty i don't mean bugs.
+i am mohammadreza aghababaei a iranian one and way passion about programming and getting your hand dirty on the code.
+
+i use  **linux**  and code in **python** for more than a year.
+
+
+my main focous now is **web Back-end** with the help of **django** and learning **web** technologies and aritchectures.
+
 <h2 align="center">Stack</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo"  />
